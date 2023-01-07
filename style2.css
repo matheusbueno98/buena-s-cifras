@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(48, 1, 27);
+    background-image: linear-gradient(to top, rgb(221,126,162), rgb(48,1,27)35%);
+}
+
+h1{
+
+    text-align: center;
+    text-shadow: 2px 2px 3px rgba(104, 60, 77, 0.808);
+    
+}
+
+h3{
+    text-align: left;
+    background-image: linear-gradient(to right, rgb(48, 1, 27), rgb(66, 2, 38), rgba(221, 126, 162, 0.199)99%);
+}
+
+h4{
+    text-align: center;
+    
+}
+
+main{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    margin: auto;
+    background-color: rgb(66, 2, 37);
+    color: rgb(221, 126, 162);
+    border-radius: 15px;
+    padding: 10px;
+
+
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
